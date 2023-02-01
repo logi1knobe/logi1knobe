@@ -4,6 +4,7 @@ Things I can do:
 - Backend
 - Some frontend
 - deep learning
+
 Things I am interested in:
 - Frontend development
 - Learning Assembly
